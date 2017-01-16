@@ -93,7 +93,7 @@ Example set of cookies:
 #include "strtok.h"
 #include "sendf.h"
 #include "slist.h"
-#include "share.h"
+#include "curl_share.h"
 #include "strtoofft.h"
 #include "strcase.h"
 #include "curl_memrchr.h"

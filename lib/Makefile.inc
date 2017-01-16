@@ -60,7 +60,7 @@ LIB_HFILES = arpa_telnet.h netrc.h file.h timeval.h hostip.h progress.h \
   speedcheck.h urldata.h curl_ldap.h escape.h telnet.h getinfo.h        \
   strcase.h curl_sec.h memdebug.h http_chunks.h curl_fnmatch.h          \
   wildcard.h fileinfo.h ftplistparser.h strtok.h connect.h llist.h      \
-  hash.h content_encoding.h share.h curl_md4.h curl_md5.h http_digest.h \
+  hash.h content_encoding.h curl_share.h curl_md4.h curl_md5.h http_digest.h \
   http_negotiate.h inet_pton.h amigaos.h strtoofft.h strerror.h         \
   inet_ntop.h curlx.h curl_memory.h curl_setup.h transfer.h select.h    \
   easyif.h multiif.h parsedate.h tftp.h sockaddr.h splay.h strdup.h     \
